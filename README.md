@@ -59,6 +59,4 @@ This repository contains solutions to various Lex/Yacc programming questions for
 
 - Each file is named according to the question it solves. Please refer to the file names and the above sections for details.
 
----
-
-If you provide the exact questions or a brief description for each file, this README can be updated to be even more helpful!
+--
